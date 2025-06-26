@@ -13,7 +13,7 @@ NH₄, BOD₅, Colloids, O₂, NO₃, NO₂, SO₄, PO₄, Cl
 ## 📊 Metrics
 Evaluated using **R² Score** and **MSE** with good performance.
 
-## Model link
+## Model link:
 https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
 
 ## 👨‍🎓 Author
