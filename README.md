@@ -17,7 +17,12 @@ NH₄, BOD₅, Colloids, O₂, NO₃, NO₂, SO₄, PO₄, Cl
 
 
 ## Model link:
-[Download Trained Model](https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing)
+https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
+
+## 👨‍🎓 Author
+*Khyati Shrivastava*  
+AICTE Virtual Intern – 2025
+
 
 ## ▶️ How to Run
 ```bash
@@ -26,6 +31,4 @@ cd WaterQualityPrediction_AICTE
 pip install -r requirements.txt
 jupyter notebook
 
-## 👨‍🎓 Author
-*Khyati Shrivastava*  
-AICTE Virtual Intern – 2025
+
