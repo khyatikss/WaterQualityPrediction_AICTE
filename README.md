@@ -11,10 +11,20 @@ This project was built during my **AICTE Virtual Internship** (June 2025), organ
 NH₄, BOD₅, Colloids, O₂, NO₃, NO₂, SO₄, PO₄, Cl
 
 ## 📊 Metrics
-Evaluated using **R² Score** and **MSE** with good performance.
+- R² Score  
+- Mean Squared Error (MSE)  
+✅ Good model accuracy achieved.
+
 
 ## Model link:
-https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
+[Download Trained Model](https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing)
+
+## ▶️ How to Run
+```bash
+git clone https://github.com/khyatikss/WaterQualityPrediction_AICTE.git
+cd WaterQualityPrediction_AICTE
+pip install -r requirements.txt
+jupyter notebook
 
 ## 👨‍🎓 Author
 *Khyati Shrivastava*  
